@@ -1,0 +1,3 @@
+set po {name:"po",occupation:"Dragon-Warrior",skills:"kungfu"}
+set tony {name:"tony stark", hero:"Iron Man"}
+set po {name:"po",occupation:"Dragon-Warrior",skills:"kungfu",special-skills:"skidush!!"}
